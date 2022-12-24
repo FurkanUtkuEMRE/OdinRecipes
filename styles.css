@@ -1,0 +1,24 @@
+.container {
+  background-color: darkslategray;
+  color: white;
+  margin: 50px;
+  padding: 50px;
+  height: 100%;
+  text-align: center;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+a {
+  color: lightskyblue;
+  font-weight: bold;
+}
+
+ul,
+ol {
+  padding: 0;
+  list-style-type: none;
+}
